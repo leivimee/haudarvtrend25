@@ -1,0 +1,811 @@
+﻿Euring;"Latin Name";"English Name";"Is PECBMS Sp?"
+20;"Gavia stellata";"Red-throated Loon";No
+30;"Gavia arctica";"Arctic Loon";No
+40;"Gavia immer";"Common Loon";No
+50;"Gavia adamsii";"Yellow-billed Loon";No
+60;"Podilymbus podiceps";"Pied-billed Grebe";No
+70;"Tachybaptus ruficollis";"Little Grebe";Yes
+90;"Podiceps cristatus";"Great Crested Grebe";Yes
+100;"Podiceps grisegena";"Red-necked Grebe";No
+110;"Podiceps auritus";"Horned Grebe";No
+120;"Podiceps nigricollis";"Black-necked Grebe";No
+220;"Fulmarus glacialis";"Northern Fulmar";No
+261;"Pterodroma mollis";"Soft-plumaged Petrel";No
+262;"Pterodroma feae";"Cape Verde Petrel";No
+263;"Pterodroma madeira";"Zino's Petrel";No
+340;"Bulweria bulwerii";"Bulwer's Petrel";No
+360;"Calonectris diomedea";"Scopoli's Shearwater";No
+362;"Calonectris edwardsii";"Cape Verde Shearwater";No
+400;"Ardenna gravis";"Great Shearwater";No
+430;"Ardenna grisea";"Sooty Shearwater";No
+460;"Puffinus puffinus";"Manx Shearwater";No
+461;"Puffinus puffinus puffinus";"Manx Shearwater";No
+462;"Puffinus yelkouan";"Yelkouan Shearwater";No
+463;"Puffinus mauretanicus";"Balearic Shearwater";No
+480;"Puffinus assimilis baroli";"Audubon's Shearwater";No
+490;"Puffinus lherminieri";"Audubon's Shearwater";No
+510;"Pelagodroma marina";"White-faced Storm-petrel";No
+520;"Hydrobates pelagicus";"European Storm-petrel";No
+521;"Hydrobates pelagicus pelagicus";"European Storm-petrel";No
+522;"Hydrobates pelagicus melitensis";"European Storm-petrel";No
+550;"Hydrobates leucorhous";"Leach's Storm-petrel";No
+560;"Hydrobates monorhis";"Swinhoe's Storm-petrel";No
+580;"Hydrobates castro";"Band-rumped Storm-petrel";No
+581;"Hydrobates monteiroi";"Monteiro's Storm-petrel";No
+640;"Phaethon aethereus";"Red-billed Tropicbird";No
+710;"Morus bassanus";"Northern Gannet";No
+720;"Phalacrocorax carbo";"Great Cormorant";No
+721;"Phalacrocorax carbo carbo";"Great Cormorant";No
+722;"Phalacrocorax carbo sinensis";"Great Cormorant";No
+800;"Phalacrocorax aristotelis";"European Shag";No
+801;"Phalacrocorax aristotelis aristotelis";"European Shag";No
+802;"Phalacrocorax aristotelis desmarestii";"European Shag";No
+820;"Microcarbo pygmaeus";"Pygmy Cormorant";No
+880;"Pelecanus onocrotalus";"Great White Pelican";No
+890;"Pelecanus crispus";"Dalmatian Pelican";No
+900;"Pelecanus rufescens";"Pink-backed Pelican";No
+950;"Botaurus stellaris";"Eurasian Bittern";No
+980;"Ixobrychus minutus";"Common Little Bittern";No
+1040;"Nycticorax nycticorax";"Black-crowned Night-heron";No
+1080;"Ardeola ralloides";"Squacco Heron";No
+1110;"Bubulcus ibis";"Cattle Egret";Yes
+1180;"Egretta gularis";"Western Reef-egret";No
+1190;"Egretta garzetta";"Little Egret";Yes
+1210;"Ardea alba";"Great White Egret";No
+1220;"Ardea cinerea";"Grey Heron";Yes
+1240;"Ardea purpurea";"Purple Heron";No
+1310;"Ciconia nigra";"Black Stork";No
+1340;"Ciconia ciconia";"White Stork";Yes
+1360;"Plegadis falcinellus";"Glossy Ibis";No
+1400;"Geronticus eremita";"Northern Bald Ibis";No
+1420;"Threskiornis aethiopicus";"African Sacred Ibis";No
+1425;"Bostrychia hagedash";"Hadada Ibis";No
+1440;"Platalea leucorodia";"Eurasian Spoonbill";No
+1470;"Phoenicopterus ruber";"American Flamingo";No
+1472;"Phoenicopterus roseus";"Greater Flamingo";No
+1480;"Phoeniconaias minor";"Lesser Flamingo";No
+1520;"Cygnus olor";"Mute Swan";Yes
+1530;"Cygnus columbianus";"Tundra Swan";No
+1540;"Cygnus cygnus";"Whooper Swan";No
+1560;"Anser cygnoid";"Swan Goose";No
+1570;"Anser fabalis";"Bean Goose";No
+1571;"Anser fabalis fabalis";"Bean Goose";No
+1574;"Anser fabalis rossicus";"Bean Goose";No
+1580;"Anser brachyrhynchus";"Pink-footed Goose";No
+1590;"Anser albifrons";"Greater White-fronted Goose";No
+1600;"Anser erythropus";"Lesser White-fronted Goose";No
+1610;"Anser anser";"Greylag Goose";No
+1620;"Anser indicus";"Bar-headed Goose";No
+1630;"Anser caerulescens";"Snow Goose";No
+1640;"Anser rossii";"Ross's Goose";No
+1650;"Anser canagicus";"Emperor Goose";No
+1660;"Branta canadensis";"Canada Goose";No
+1661;"Branta canadensis canadensis";"Canada Goose";No
+1664;"Branta canadensis hutchinsii";"Cackling Goose";No
+1670;"Branta leucopsis";"Barnacle Goose";No
+1680;"Branta bernicla";"Brent Goose";No
+1681;"Branta bernicla bernicla";"Brent Goose";No
+1682;"Branta bernicla hrota";"Brent Goose";No
+1690;"Branta ruficollis";"Red-breasted Goose";No
+1700;"Alopochen aegyptiaca";"Egyptian Goose";No
+1710;"Tadorna ferruginea";"Ruddy Shelduck";No
+1730;"Tadorna tadorna";"Common Shelduck";Yes
+1750;"Cairina moschata";"Muscovy Duck";No
+1770;"Aix sponsa";"Wood Duck";No
+1780;"Aix galericulata";"Mandarin Duck";No
+1790;"Mareca penelope";"Eurasian Wigeon";No
+1820;"Mareca strepera";Gadwall;No
+1840;"Anas crecca";"Common Teal";No
+1842;"Anas carolinensis";"Common Teal";No
+1860;"Anas platyrhynchos";Mallard;Yes
+1861;"Anas platyrhynchos platyrhynchos";Mallard;Yes
+1870;"Anas rubripes";"American Black Duck";No
+1880;"Anas poecilorhyncha";"Indian Spot-billed Duck";No
+1890;"Anas acuta";"Northern Pintail";No
+1900;"Anas bahamensis";"White-cheeked Pintail";No
+1910;"Spatula querquedula";Garganey;No
+1920;"Spatula discors";"Blue-winged Teal";No
+1930;"Spatula cyanoptera";"Cinnamon Teal";No
+1940;"Spatula clypeata";"Northern Shoveler";No
+1950;"Marmaronetta angustirostris";"Marbled Teal";No
+1960;"Netta rufina";"Red-crested Pochard";No
+1980;"Aythya ferina";"Common Pochard";No
+2000;"Aythya collaris";"Ring-necked Duck";No
+2020;"Aythya nyroca";"Ferruginous Duck";No
+2030;"Aythya fuligula";"Tufted Duck";No
+2040;"Aythya marila";"Greater Scaup";No
+2050;"Aythya affinis";"Lesser Scaup";No
+2060;"Somateria mollissima";"Common Eider";No
+2061;"Somateria mollissima mollissima";"Common Eider";No
+2062;"Somateria mollissima faeroensis";"Common Eider";No
+2063;"Somateria mollissima borealis";"Common Eider";No
+2070;"Somateria spectabilis";"King Eider";No
+2090;"Polysticta stelleri";"Steller's Eider";No
+2110;"Histrionicus histrionicus";"Harlequin Duck";No
+2120;"Clangula hyemalis";"Long-tailed Duck";No
+2130;"Melanitta nigra";"Common Scoter";No
+2150;"Melanitta fusca";"Velvet Scoter";No
+2170;"Bucephala islandica";"Barrow's Goldeneye";No
+2180;"Bucephala clangula";"Common Goldeneye";No
+2190;"Lophodytes cucullatus";"Hooded Merganser";No
+2200;"Mergellus albellus";Smew;No
+2210;"Mergus serrator";"Red-breasted Merganser";No
+2230;"Mergus merganser";Goosander;No
+2250;"Oxyura jamaicensis";"Ruddy Duck";No
+2260;"Oxyura leucocephala";"White-headed Duck";No
+2310;"Pernis apivorus";"European Honey-buzzard";No
+2350;"Elanus caeruleus";"Black-winged Kite";No
+2380;"Milvus migrans";"Black Kite";No
+2390;"Milvus milvus";"Red Kite";No
+2420;"Haliaeetus leucoryphus";"Pallas's Fish-eagle";No
+2430;"Haliaeetus albicilla";"White-tailed Sea-eagle";No
+2460;"Gypaetus barbatus";"Bearded Vulture";No
+2470;"Neophron percnopterus";"Egyptian Vulture";No
+2510;"Gyps fulvus";"Griffon Vulture";No
+2530;"Gyps rueppellii";"Rüppell's Vulture";No
+2550;"Aegypius monachus";"Cinereous Vulture";No
+2560;"Circaetus gallicus";"Short-toed Snake-eagle";No
+2600;"Circus aeruginosus";"Western Marsh-harrier";Yes
+2610;"Circus cyaneus";"Hen Harrier";No
+2620;"Circus macrourus";"Pallid Harrier";No
+2630;"Circus pygargus";"Montagu's Harrier";No
+2670;"Accipiter gentilis";"Northern Goshawk";No
+2690;"Accipiter nisus";"Eurasian Sparrowhawk";Yes
+2720;"Accipiter badius";Shikra;No
+2730;"Accipiter brevipes";"Levant Sparrowhawk";No
+2780;"Parabuteo unicinctus";"Harris's Hawk";No
+2870;"Buteo buteo";"Eurasian Buzzard";Yes
+2871;"Buteo buteo buteo";"Eurasian Buzzard";Yes
+2872;"Buteo buteo vulpinus";"Eurasian Buzzard";Yes
+2880;"Buteo rufinus";"Long-legged Buzzard";No
+2900;"Buteo lagopus";"Rough-legged Buzzard";No
+2920;"Clanga pomarina";"Lesser Spotted Eagle";No
+2930;"Clanga clanga";"Greater Spotted Eagle";No
+2942;"Aquila rapax nipalensis";"Steppe Eagle";No
+2950;"Aquila heliaca";"Eastern Imperial Eagle";No
+2951;"Aquila heliaca heliaca";"Eastern Imperial Eagle";No
+2952;"Aquila adalberti";"Spanish Imperial Eagle";No
+2960;"Aquila chrysaetos";"Golden Eagle";No
+2980;"Hieraaetus pennatus";"Booted Eagle";No
+2990;"Aquila fasciata";"Bonelli's Eagle";No
+3010;"Pandion haliaetus";Osprey;No
+3030;"Falco naumanni";"Lesser Kestrel";No
+3040;"Falco tinnunculus";"Common Kestrel";Yes
+3070;"Falco vespertinus";"Red-footed Falcon";No
+3090;"Falco columbarius";Merlin;No
+3100;"Falco subbuteo";"Eurasian Hobby";No
+3110;"Falco eleonorae";"Eleonora's Falcon";No
+3140;"Falco biarmicus";"Lanner Falcon";No
+3160;"Falco cherrug";"Saker Falcon";No
+3180;"Falco rusticolus";Gyrfalcon;No
+3200;"Falco peregrinus";"Peregrine Falcon";No
+3210;"Falco pelegrinoides";"Peregrine Falcon";No
+3260;"Bonasa bonasia";"Hazel Grouse";Yes
+3290;"Lagopus lagopus";"Willow Grouse";No
+3291;"Lagopus lagopus lagopus";"Willow Grouse";No
+3292;"Lagopus lagopus scoticus";"Willow Grouse";No
+3300;"Lagopus muta";"Rock Ptarmigan";No
+3320;"Lyrurus tetrix";"Black Grouse";Yes
+3330;"Lyrurus mlokosiewiczi";"Caucasian Grouse";No
+3350;"Tetrao urogallus";"Western Capercaillie";No
+3410;"Callipepla californica";"California Quail";No
+3450;"Colinus virginianus";"Northern Bobwhite";No
+3500;"Tetraogallus caucasicus";"Caucasian Snowcock";No
+3510;"Tetraogallus caspius";"Caspian Snowcock";No
+3550;"Alectoris chukar";Chukar;No
+3570;"Alectoris graeca";"Rock Partridge";No
+3580;"Alectoris rufa";"Red-legged Partridge";Yes
+3590;"Alectoris barbara";"Barbary Partridge";No
+3620;"Ammoperdix griseogularis";"See-see Partridge";No
+3640;"Francolinus francolinus";"Black Francolin";No
+3670;"Perdix perdix";"Grey Partridge";Yes
+3700;"Coturnix coturnix";"Common Quail";No
+3710;"Coturnix japonica";"Japanese Quail";No
+3860;"Gallus gallus";"Red Junglefowl";No
+3930;"Syrmaticus reevesii";"Reeves's Pheasant";No
+3940;"Phasianus colchicus";"Common Pheasant";Yes
+3960;"Chrysolophus pictus";"Golden Pheasant";No
+3970;"Chrysolophus amherstiae";"Lady Amherst's Pheasant";No
+3980;"Numida meleagris";"Helmeted Guineafowl";No
+3990;"Meleagris gallopavo";"Wild Turkey";No
+4000;"Turnix sylvaticus";"Common Buttonquail";No
+4070;"Rallus aquaticus";"Western Water Rail";No
+4080;"Porzana porzana";"Spotted Crake";No
+4100;"Zapornia parva";"Little Crake";No
+4110;"Zapornia pusilla";"Baillon's Crake";No
+4210;"Crex crex";Corncrake;No
+4240;"Gallinula chloropus";"Common Moorhen";Yes
+4250;"Porphyrio alleni";"Allen's Gallinule";No
+4270;"Porphyrio porphyrio";"Purple Swamphen";No
+4272;"Porphyrio porphyrio madagascariensis";"Purple Swamphen";No
+4273;"Porphyrio porphyrio poliocephalus";"Purple Swamphen";No
+4290;"Fulica atra";"Common Coot";Yes
+4310;"Fulica cristata";"Red-knobbed Coot";No
+4330;"Grus grus";"Common Crane";Yes
+4400;"Leucogeranus leucogeranus";"Siberian Crane";No
+4410;"Anthropoides virgo";"Demoiselle Crane";No
+4420;"Tetrax tetrax";"Little Bustard";Yes
+4440;"Chlamydotis undulata";"African Houbara";No
+4442;"Chlamydotis undulata macqueenii";"Asian Houbara";No
+4443;"Chlamydotis undulata fuerteventurae";"African Houbara";No
+4460;"Otis tarda";"Great Bustard";No
+4500;"Haematopus ostralegus";"Eurasian Oystercatcher";Yes
+4550;"Himantopus himantopus";"Black-winged Stilt";No
+4560;"Recurvirostra avosetta";"Pied Avocet";No
+4590;"Burhinus oedicnemus";"Eurasian Thick-knee";Yes
+4640;"Cursorius cursor";"Cream-coloured Courser";No
+4650;"Glareola pratincola";"Collared Pratincole";No
+4670;"Glareola nordmanni";"Black-winged Pratincole";No
+4690;"Charadrius dubius";"Little Ringed Plover";No
+4700;"Charadrius hiaticula";"Common Ringed Plover";No
+4740;"Charadrius vociferus";Killdeer;No
+4770;"Charadrius alexandrinus";"Kentish Plover";No
+4790;"Charadrius leschenaultii";"Greater Sandplover";No
+4800;"Charadrius asiaticus";"Caspian Plover";No
+4820;"Eudromias morinellus";"Eurasian Dotterel";No
+4842;"Pluvialis fulva";"Pacific Golden Plover";No
+4850;"Pluvialis apricaria";"Eurasian Golden Plover";Yes
+4860;"Pluvialis squatarola";"Grey Plover";No
+4870;"Vanellus spinosus";"Spur-winged Lapwing";No
+4910;"Vanellus gregarius";"Sociable Lapwing";No
+4920;"Vanellus leucurus";"White-tailed Lapwing";No
+4930;"Vanellus vanellus";"Northern Lapwing";Yes
+4960;"Calidris canutus";"Red Knot";No
+4970;"Calidris alba";Sanderling;No
+5010;"Calidris minuta";"Little Stint";No
+5020;"Calidris temminckii";"Temminck's Stint";No
+5060;"Calidris bairdii";"Baird's Sandpiper";No
+5070;"Calidris melanotos";"Pectoral Sandpiper";No
+5090;"Calidris ferruginea";"Curlew Sandpiper";No
+5100;"Calidris maritima";"Purple Sandpiper";No
+5120;"Calidris alpina";Dunlin;No
+5121;"Calidris alpina alpina";Dunlin;No
+5123;"Calidris alpina schinzii";Dunlin;No
+5140;"Calidris falcinellus";"Broad-billed Sandpiper";No
+5170;"Calidris pugnax";Ruff;No
+5180;"Lymnocryptes minimus";"Jack Snipe";No
+5190;"Gallinago gallinago";"Common Snipe";Yes
+5200;"Gallinago media";"Great Snipe";No
+5210;"Gallinago stenura";"Pintail Snipe";No
+5220;"Gallinago megala";"Swinhoe's Snipe";No
+5290;"Scolopax rusticola";"Eurasian Woodcock";No
+5320;"Limosa limosa";"Black-tailed Godwit";Yes
+5321;"Limosa limosa limosa";"Black-tailed Godwit";Yes
+5322;"Limosa limosa islandica";"Black-tailed Godwit";Yes
+5340;"Limosa lapponica";"Bar-tailed Godwit";No
+5380;"Numenius phaeopus";Whimbrel;Yes
+5400;"Numenius tenuirostris";"Slender-billed Curlew";No
+5410;"Numenius arquata";"Eurasian Curlew";Yes
+5450;"Tringa erythropus";"Spotted Redshank";Yes
+5460;"Tringa totanus";"Common Redshank";Yes
+5461;"Tringa totanus totanus";"Common Redshank";Yes
+5470;"Tringa stagnatilis";"Marsh Sandpiper";No
+5480;"Tringa nebularia";"Common Greenshank";Yes
+5530;"Tringa ochropus";"Green Sandpiper";Yes
+5540;"Tringa glareola";"Wood Sandpiper";Yes
+5550;"Xenus cinereus";"Terek Sandpiper";No
+5560;"Actitis hypoleucos";"Common Sandpiper";Yes
+5570;"Actitis macularius";"Spotted Sandpiper";No
+5610;"Arenaria interpres";"Ruddy Turnstone";No
+5640;"Phalaropus lobatus";"Red-necked Phalarope";No
+5650;"Phalaropus fulicarius";"Red Phalarope";No
+5660;"Stercorarius pomarinus";"Pomarine Jaeger";No
+5670;"Stercorarius parasiticus";"Arctic Jaeger";No
+5680;"Stercorarius longicaudus";"Long-tailed Jaeger";No
+5690;"Catharacta skua";"Great Skua";No
+5730;"Larus ichthyaetus";"Pallas's Gull";No
+5750;"Larus melanocephalus";"Mediterranean Gull";No
+5780;"Hydrocoloeus minutus";"Little Gull";No
+5790;"Xema sabini";"Sabine's Gull";No
+5810;"Larus philadelphia";"Bonaparte's Gull";No
+5820;"Larus ridibundus";"Black-headed Gull";Yes
+5850;"Larus genei";"Slender-billed Gull";No
+5880;"Larus audouinii";"Audouin's Gull";No
+5890;"Larus delawarensis";"Ring-billed Gull";No
+5900;"Larus canus";"Mew Gull";No
+5901;"Larus canus canus";"Mew Gull";No
+5910;"Larus fuscus";"Lesser Black-backed Gull";No
+5911;"Larus fuscus fuscus";"Lesser Black-backed Gull";No
+5912;"Larus fuscus graellsii";"Lesser Black-backed Gull";No
+5913;"Larus fuscus intermedius";"Lesser Black-backed Gull";No
+5920;"Larus argentatus";"European Herring Gull";No
+5921;"Larus argentatus argentatus";"European Herring Gull";No
+5922;"Larus heuglini";"Lesser Black-backed Gull";No
+5925;"Larus michahellis atlantis";"Yellow-legged Gull";No
+5926;"Larus michahellis michahellis";"Yellow-legged Gull";No
+5927;"Larus cachinnans";"Caspian Gull";No
+5980;"Larus glaucoides";"Iceland Gull";No
+5990;"Larus hyperboreus";"Glaucous Gull";No
+6000;"Larus marinus";"Great Black-backed Gull";No
+6010;"Rhodostethia rosea";"Ross's Gull";No
+6020;"Rissa tridactyla";"Black-legged Kittiwake";No
+6040;"Pagophila eburnea";"Ivory Gull";No
+6050;"Gelochelidon nilotica";"Common Gull-billed Tern";No
+6060;"Hydroprogne caspia";"Caspian Tern";No
+6090;"Sterna bengalensis";"Lesser Crested Tern";No
+6110;"Thalasseus sandvicensis";"Sandwich Tern";No
+6120;"Thalasseus elegans";"Elegant Tern";No
+6140;"Sterna dougallii";"Roseate Tern";No
+6150;"Sterna hirundo";"Common Tern";No
+6160;"Sterna paradisaea";"Arctic Tern";No
+6230;"Onychoprion fuscatus";"Sooty Tern";No
+6240;"Sternula albifrons";"Little Tern";No
+6260;"Chlidonias hybrida";"Whiskered Tern";No
+6270;"Chlidonias niger";"Black Tern";No
+6280;"Chlidonias leucopterus";"White-winged Tern";No
+6340;"Uria aalge";"Common Murre";No
+6350;"Uria lomvia";"Thick-billed Murre";No
+6360;"Alca torda";Razorbill;No
+6380;"Cepphus grylle";"Black Guillemot";No
+6470;"Alle alle";"Little Auk";No
+6540;"Fratercula arctica";"Atlantic Puffin";No
+6610;"Pterocles orientalis";"Black-bellied Sandgrouse";No
+6620;"Pterocles alchata";"Pin-tailed Sandgrouse";No
+6630;"Syrrhaptes paradoxus";"Pallas's Sandgrouse";No
+6650;"Columba livia";"Rock Dove";No
+6651;"Columba livia livia";"Rock Dove";No
+6657;"Columba livia domestica";"Rock Dove";No
+6680;"Columba oenas";"Stock Dove";Yes
+6700;"Columba palumbus";"Common Woodpigeon";Yes
+6710;"Columba trocaz";"Madeira Laurel-pigeon";No
+6720;"Columba bollii";"Dark-tailed Laurel-pigeon";No
+6730;"Columba junoniae";"White-tailed Laurel-pigeon";No
+6831;"Streptopelia risoria domestica";"Barbary Dove";No
+6840;"Streptopelia decaocto";"Eurasian Collared-dove";Yes
+6870;"Streptopelia turtur";"European Turtle-dove";Yes
+6890;"Streptopelia orientalis";"Oriental Turtle-dove";No
+6891;"Streptopelia orientalis meenae";"Oriental Turtle-dove";No
+6900;"Spilopelia senegalensis";"Laughing Dove";No
+7120;"Psittacula krameri";"Rose-ringed Parakeet";No
+7130;"Psittacula derbiana";"Lord Derby's Parakeet";No
+7140;"Psittacula himalayana";"Slaty-headed Parakeet";No
+7160;"Clamator glandarius";"Great Spotted Cuckoo";Yes
+7240;"Cuculus canorus";"Common Cuckoo";Yes
+7250;"Cuculus saturatus";"Oriental Cuckoo";No
+7350;"Tyto alba";"Common Barn-owl";No
+7380;"Otus brucei";"Pallid Scops-owl";No
+7390;"Otus scops";"Eurasian Scops-owl";No
+7391;"Otus cyprius";"Cyprus Scops-owl";No
+7440;"Bubo bubo";"Eurasian Eagle-owl";No
+7470;"Ketupa zeylonensis";"Brown Fish-owl";No
+7490;"Bubo scandiacus";"Snowy Owl";No
+7500;"Surnia ulula";"Northern Hawk-owl";No
+7510;"Glaucidium passerinum";"Eurasian Pygmy-owl";No
+7570;"Athene noctua";"Little Owl";No
+7610;"Strix aluco";"Tawny Owl";No
+7620;"Strix butleri";"Omani Owl";No
+7650;"Strix uralensis";"Ural Owl";No
+7660;"Strix nebulosa";"Great Grey Owl";No
+7670;"Asio otus";"Northern Long-eared Owl";No
+7680;"Asio flammeus";"Short-eared Owl";No
+7700;"Aegolius funereus";"Boreal Owl";No
+7780;"Caprimulgus europaeus";"European Nightjar";No
+7790;"Caprimulgus ruficollis";"Red-necked Nightjar";No
+7940;"Apus unicolor";"Plain Swift";No
+7950;"Apus apus";"Common Swift";Yes
+7960;"Apus pallidus";"Pallid Swift";No
+7980;"Tachymarptis melba";"Alpine Swift";No
+7990;"Apus caffer";"White-rumped Swift";No
+8000;"Apus affinis";"Little Swift";No
+8270;"Halcyon smyrnensis";"White-breasted Kingfisher";No
+8310;"Alcedo atthis";"Common Kingfisher";Yes
+8330;"Ceryle rudis";"Pied Kingfisher";No
+8390;"Merops persicus";"Blue-cheeked Bee-eater";No
+8400;"Merops apiaster";"European Bee-eater";Yes
+8410;"Coracias garrulus";"European Roller";No
+8460;"Upupa epops";"Common Hoopoe";Yes
+8480;"Jynx torquilla";"Eurasian Wryneck";Yes
+8550;"Picus canus";"Grey-faced Woodpecker";Yes
+8560;"Picus viridis";"Eurasian Green Woodpecker / Iberian Green Woodpecker";Yes
+8561;"Picus viridis viridis";"Eurasian Green Woodpecker / Iberian Green Woodpecker";Yes
+8562;"Picus sharpei";"Eurasian Green Woodpecker / Iberian Green Woodpecker";Yes
+8630;"Dryocopus martius";"Black Woodpecker";Yes
+8760;"Dendrocopos major";"Great Spotted Woodpecker";Yes
+8761;"Dendrocopos major major";"Great Spotted Woodpecker";Yes
+8780;"Dendrocopos syriacus";"Syrian Woodpecker";Yes
+8830;"Leiopicus medius";"Middle Spotted Woodpecker";Yes
+8840;"Dendrocopos leucotos";"White-backed Woodpecker";No
+8870;"Dryobates minor";"Lesser Spotted Woodpecker";Yes
+8980;"Picoides tridactylus";"Three-toed Woodpecker";No
+9550;"Ammomanes cinctura";"Bar-tailed Lark";No
+9570;"Ammomanes deserti";"Desert Lark";No
+9580;"Alaemon alaudipes";"Greater Hoopoe-lark";No
+9590;"Chersophilus duponti";"Dupont's Lark";No
+9610;"Melanocorypha calandra";"Calandra Lark";Yes
+9620;"Melanocorypha bimaculata";"Bimaculated Lark";No
+9650;"Alauda leucoptera";"White-winged Lark";No
+9660;"Melanocorypha yeltoniensis";"Black Lark";No
+9680;"Calandrella brachydactyla";"Greater Short-toed Lark";Yes
+9700;"Alaudala rufescens";"Lesser Short-toed Lark";No
+9701;"Alaudala rufescens rufescens";"Lesser Short-toed Lark";No
+9702;"Alaudala cheelensis";"Lesser Short-toed Lark";No
+9720;"Galerida cristata";"Crested Lark";Yes
+9730;"Galerida theklae";"Thekla's Lark";Yes
+9740;"Lullula arborea";Woodlark;Yes
+9750;"Alauda gulgula";"Oriental Skylark";No
+9760;"Alauda arvensis";"Eurasian Skylark";Yes
+9780;"Eremophila alpestris";"Horned Lark";No
+9790;"Eremophila bilopha";"Temminck's Lark";No
+9810;"Riparia riparia";"Collared Sand Martin";No
+9813;"Riparia diluta";"Pale Sand Martin";No
+9910;"Ptyonoprogne rupestris";"Eurasian Crag Martin";Yes
+9920;"Hirundo rustica";"Barn Swallow";Yes
+9950;"Cecropis daurica";"Red-rumped Swallow";Yes
+10010;"Delichon urbicum";"Northern House Martin";Yes
+10020;"Anthus richardi";"Richard's Pipit";No
+10050;"Anthus campestris";"Tawny Pipit";Yes
+10060;"Anthus berthelotii";"Berthelot's Pipit";No
+10080;"Anthus hodgsoni";"Olive-backed Pipit";No
+10090;"Anthus trivialis";"Tree Pipit";Yes
+10100;"Anthus gustavi";"Pechora Pipit";No
+10110;"Anthus pratensis";"Meadow Pipit";Yes
+10120;"Anthus cervinus";"Red-throated Pipit";No
+10140;"Anthus spinoletta";"Water Pipit";No
+10141;"Anthus spinoletta spinoletta";"Water Pipit";No
+10142;"Anthus petrosus";"Rock Pipit";No
+10143;"Anthus petrosus littoralis";"Rock Pipit";No
+10170;"Motacilla flava";"Western Yellow Wagtail";Yes
+10171;"Motacilla flava flava";"Western Yellow Wagtail";Yes
+10172;"Motacilla flava flavissima";"Western Yellow Wagtail";Yes
+10173;"Motacilla flava feldegg";"Western Yellow Wagtail";Yes
+10174;"Motacilla flava cinereocapilla";"Western Yellow Wagtail";Yes
+10175;"Motacilla flava thunbergi";"Western Yellow Wagtail";Yes
+10176;"Motacilla flava iberiae";"Western Yellow Wagtail";Yes
+10177;"Motacilla flava lutea";"Western Yellow Wagtail";Yes
+10178;"Motacilla flava beema";"Western Yellow Wagtail";Yes
+10180;"Motacilla citreola";"Citrine Wagtail";No
+10190;"Motacilla cinerea";"Grey Wagtail";Yes
+10200;"Motacilla alba";"White Wagtail";Yes
+10201;"Motacilla alba alba";"White Wagtail";Yes
+10202;"Motacilla alba yarrellii";"White Wagtail";Yes
+10203;"Motacilla alba personata";"White Wagtail";Yes
+10360;"Pycnonotus xanthopygos";"White-spectacled Bulbul";No
+10370;"Pycnonotus barbatus";"Common Bulbul";No
+10376;"Pycnonotus jocosus";"Red-whiskered Bulbul";No
+10480;"Bombycilla garrulus";"Bohemian Waxwing";Yes
+10500;"Cinclus cinclus";"White-throated Dipper";No
+10660;"Troglodytes troglodytes";"Northern Wren";Yes
+10840;"Prunella modularis";Dunnock;Yes
+10860;"Prunella montanella";"Siberian Accentor";No
+10880;"Prunella ocularis";"Radde's Accentor";No
+10900;"Prunella atrogularis";"Black-throated Accentor";No
+10940;"Prunella collaris";"Alpine Accentor";No
+10950;"Cercotrichas galactotes";"Rufous-tailed Scrub-robin";No
+10990;"Erithacus rubecula";"European Robin";Yes
+10992;"Erithacus rubecula superbus";"European Robin";Yes
+10993;"Erithacus rubecula marionae";"European Robin";Yes
+11030;"Luscinia luscinia";"Thrush Nightingale";Yes
+11040;"Luscinia megarhynchos";"Common Nightingale";Yes
+11050;"Calliope calliope";"Siberian Rubythroat";No
+11060;"Cyanecula svecica";Bluethroat;Yes
+11061;"Cyanecula svecica svecica";Bluethroat;Yes
+11062;"Cyanecula svecica cyanecula";Bluethroat;Yes
+11063;"Cyanecula svecica namnetum";Bluethroat;Yes
+11064;"Cyanecula svecica magna";Bluethroat;Yes
+11130;"Tarsiger cyanurus";"Orange-flanked Bush-robin";No
+11170;"Irania gutturalis";"White-throated Robin";No
+11210;"Phoenicurus ochruros";"Black Redstart";Yes
+11211;"Phoenicurus ochruros ochruros";"Black Redstart";Yes
+11212;"Phoenicurus ochruros gibraltariensis";"Black Redstart";Yes
+11213;"Phoenicurus ochruros aterrimus";"Black Redstart";Yes
+11220;"Phoenicurus phoenicurus";"Common Redstart";Yes
+11221;"Phoenicurus phoenicurus phoenicurus";"Common Redstart";Yes
+11222;"Phoenicurus phoenicurus samamisicus";"Common Redstart";Yes
+11280;"Phoenicurus erythrogastrus";"White-winged Redstart";No
+11370;"Saxicola rubetra";Whinchat;Yes
+11380;"Saxicola dacotiae";"Fuerteventura Stonechat";No
+11390;"Saxicola torquatus";"Common Stonechat";Yes
+11391;"Saxicola torquatus torquatus";"Common Stonechat";Yes
+11393;"Saxicola torquatus rubicola";"Common Stonechat";Yes
+11394;"Saxicola maurus";"Common Stonechat";Yes
+11396;"Saxicola variegatus";"Common Stonechat";Yes
+11440;"Oenanthe isabellina";"Isabelline Wheatear";No
+11460;"Oenanthe oenanthe";"Northern Wheatear";Yes
+11461;"Oenanthe oenanthe oenanthe";"Northern Wheatear";Yes
+11462;"Oenanthe oenanthe leucorhoa";"Northern Wheatear";Yes
+11470;"Oenanthe pleschanka";"Pied Wheatear";No
+11471;"Oenanthe cypriaca";"Cyprus Wheatear";Yes
+11480;"Oenanthe hispanica";"Black-eared Wheatear";Yes
+11481;"Oenanthe hispanica hispanica";"Black-eared Wheatear";Yes
+11482;"Oenanthe hispanica melanoleuca";"Black-eared Wheatear";Yes
+11490;"Oenanthe deserti";"Desert Wheatear";No
+11500;"Oenanthe finschii";"Finsch's Wheatear";No
+11520;"Oenanthe xanthoprymna";"Kurdish Wheatear";No
+11521;"Oenanthe chrysopygia";"Red-tailed Wheatear";No
+11540;"Oenanthe lugens";"Mourning Wheatear";No
+11560;"Oenanthe albonigra";"Hume's Wheatear";No
+11580;"Oenanthe leucura";"Black Wheatear";No
+11620;"Monticola saxatilis";"Rufous-tailed Rock-thrush";No
+11660;"Monticola solitarius";"Blue Rock-thrush";No
+11700;"Zoothera dauma";"White's Thrush";No
+11860;"Turdus torquatus";"Ring Ouzel";Yes
+11870;"Turdus merula";"Eurasian Blackbird";Yes
+11971;"Turdus ruficollis ruficollis";"Rufous-throated Thrush";No
+11972;"Turdus ruficollis atrogularis";"Black-throated Thrush";No
+11980;"Turdus pilaris";Fieldfare;Yes
+12000;"Turdus philomelos";"Song Thrush";Yes
+12010;"Turdus iliacus";Redwing;Yes
+12020;"Turdus viscivorus";"Mistle Thrush";Yes
+12030;"Turdus migratorius";"American Robin";No
+12200;"Cettia cetti";"Cetti's Warbler";Yes
+12260;"Cisticola juncidis";"Zitting Cisticola";Yes
+12270;"Prinia gracilis";"Graceful Prinia";No
+12330;"Locustella certhiola";"Pallas's Grasshopper-warbler";No
+12350;"Locustella lanceolata";"Lanceolated Warbler";No
+12360;"Locustella naevia";"Common Grasshopper-warbler";Yes
+12370;"Locustella fluviatilis";"River Warbler";Yes
+12380;"Locustella luscinioides";"Savi's Warbler";No
+12410;"Acrocephalus melanopogon";"Moustached Warbler";No
+12420;"Acrocephalus paludicola";"Aquatic Warbler";No
+12430;"Acrocephalus schoenobaenus";"Sedge Warbler";Yes
+12470;"Acrocephalus agricola";"Paddyfield Warbler";No
+12480;"Acrocephalus dumetorum";"Blyth's Reed-warbler";No
+12500;"Acrocephalus palustris";"Marsh Warbler";Yes
+12510;"Acrocephalus scirpaceus";"Common Reed-warbler";Yes
+12512;"Acrocephalus scirpaceus fuscus";"Common Reed-warbler";Yes
+12530;"Acrocephalus arundinaceus";"Great Reed-warbler";Yes
+12550;"Iduna pallida";"Olivaceous Warbler";Yes
+12552;"Iduna opaca";"Isabelline Warbler";No
+12560;"Iduna caligata";"Booted Warbler";No
+12562;"Iduna rama";"Sykes's Warbler";No
+12570;"Hippolais languida";"Upcher's Warbler";No
+12580;"Hippolais olivetorum";"Olive-tree Warbler";No
+12590;"Hippolais icterina";"Icterine Warbler";Yes
+12600;"Hippolais polyglotta";"Melodious Warbler";Yes
+12610;"Sylvia sarda";"Marmora's Warbler";No
+12611;"Sylvia sarda sarda";"Marmora's Warbler";No
+12612;"Sylvia sarda balearica";"Balearic Warbler";No
+12620;"Sylvia undata";"Dartford Warbler";Yes
+12640;"Sylvia conspicillata";"Spectacled Warbler";No
+12650;"Sylvia cantillans";"Subalpine Warbler / Moltoni's Warbler";Yes
+12651;"Sylvia cantillans cantillans";"Subalpine Warbler / Moltoni's Warbler";Yes
+12652;"Sylvia cantillans subalpina";"Subalpine Warbler / Moltoni's Warbler";Yes
+12653;"Sylvia cantillans albistriata";"Subalpine Warbler / Moltoni's Warbler";Yes
+12660;"Sylvia mystacea";"Menetries's Warbler";No
+12670;"Sylvia melanocephala";"Sardinian Warbler";Yes
+12680;"Sylvia melanothorax";"Cyprus Warbler";Yes
+12690;"Sylvia ruppeli";"Rüppell's Warbler";No
+12700;"Sylvia nana";"Asian Desert Warbler";No
+12720;"Sylvia hortensis";"Western Orphean Warbler";Yes
+12721;"Sylvia hortensis hortensis";"Western Orphean Warbler";Yes
+12722;"Sylvia hortensis crassirostris";"Eastern Orphean Warbler";No
+12730;"Sylvia nisoria";"Barred Warbler";Yes
+12740;"Sylvia curruca";"Lesser Whitethroat";Yes
+12741;"Sylvia curruca curruca";"Lesser Whitethroat";Yes
+12742;"Sylvia curruca blythi";"Lesser Whitethroat";Yes
+12743;"Sylvia curruca halimodendri";"Lesser Whitethroat";Yes
+12744;"Sylvia curruca minula";"Lesser Whitethroat";Yes
+12750;"Sylvia communis";"Common Whitethroat";Yes
+12760;"Sylvia borin";"Garden Warbler";Yes
+12770;"Sylvia atricapilla";"Eurasian Blackcap";Yes
+12910;"Phylloscopus trochilloides nitidus";"Green Warbler";No
+12930;"Phylloscopus trochiloides";"Greenish Warbler";No
+12950;"Phylloscopus borealis";"Arctic Warbler";No
+13000;"Phylloscopus inornatus";"Yellow-browed Warbler";No
+13002;"Phylloscopus humei";"Hume's Leaf-warbler";No
+13070;"Phylloscopus bonelli";"Western Bonelli's Warbler";Yes
+13071;"Phylloscopus bonelli bonelli";"Western Bonelli's Warbler";Yes
+13072;"Phylloscopus bonelli orientalis";"Eastern Bonelli's Warbler";No
+13080;"Phylloscopus sibilatrix";"Wood Warbler";Yes
+13100;"Phylloscopus sindianus";"Mountain Chiffchaff";No
+13102;"Phylloscopus sindianus lorenzii";"Mountain Chiffchaff";No
+13110;"Phylloscopus collybita";"Common Chiffchaff";Yes
+13111;"Phylloscopus collybita collybita";"Common Chiffchaff";Yes
+13113;"Phylloscopus collybita tristis";"Siberian Chiffchaff";No
+13114;"Phylloscopus collybita abietinus";"Common Chiffchaff";Yes
+13115;"Phylloscopus ibericus";"Iberian Chiffchaff";No
+13117;"Phylloscopus canariensis";"Canary Islands Chiffchaff";No
+13120;"Phylloscopus trochilus";"Willow Warbler";Yes
+13140;"Regulus regulus";Goldcrest;Yes
+13142;"Regulus regulus teneriffae";Goldcrest;Yes
+13150;"Regulus ignicapilla";"Common Firecrest";Yes
+13154;"Regulus madeirensis";"Madeira Firecrest";No
+13350;"Muscicapa striata";"Spotted Flycatcher";Yes
+13430;"Ficedula parva";"Red-breasted Flycatcher";No
+13431;"Ficedula parva parva";"Red-breasted Flycatcher";No
+13432;"Ficedula albicilla";"Red-throated Flycatcher";No
+13470;"Ficedula semitorquata";"Semi-collared Flycatcher";No
+13480;"Ficedula albicollis";"Collared Flycatcher";Yes
+13490;"Ficedula hypoleuca";"European Pied Flycatcher";Yes
+13640;"Panurus biarmicus";"Bearded Reedling";No
+13700;"Sinosuthora webbiana";"Vinous-throated Parrotbill";No
+13705;"Sinosuthora alphonsiana";"Ashy-throated Parrotbill";No
+13770;"Argya altirostris";"Iraq Babbler";No
+14070;"Leiothrix lutea";"Red-billed Leiothrix";No
+14370;"Aegithalos caudatus";"Long-tailed Tit";Yes
+14371;"Aegithalos caudatus caudatus";"Long-tailed Tit";Yes
+14374;"Aegithalos caudatus europaeus";"Long-tailed Tit";Yes
+14375;"Aegithalos caudatus rosaceus";"Long-tailed Tit";Yes
+14400;"Poecile palustris";"Marsh Tit";Yes
+14410;"Poecile lugubris";"Sombre Tit";No
+14420;"Poecile montanus";"Willow Tit";Yes
+14480;"Poecile cinctus";"Siberian Tit";No
+14500;"Poecile rufescens";"Chestnut-backed Chickadee";No
+14540;"Lophophanes cristatus";"Crested Tit";Yes
+14610;"Periparus ater";"Coal Tit";Yes
+14611;"Periparus ater ater";"Coal Tit";Yes
+14620;"Cyanistes caeruleus";"Eurasian Blue Tit";Yes
+14622;"Cyanistes caeruleus ultramarinus";"African Blue Tit";Yes
+14624;"Cyanistes caeruleus palmensis";"African Blue Tit";Yes
+14625;"Cyanistes caeruleus teneriffae";"African Blue Tit";Yes
+14626;"Cyanistes caeruleus ombrosus";"African Blue Tit";Yes
+14627;"Cyanistes caeruleus degener";"African Blue Tit";Yes
+14630;"Cyanistes cyanus";"Azure Tit";No
+14640;"Parus major";"Great Tit";Yes
+14690;"Sitta krueperi";"Krueper's Nuthatch";No
+14700;"Sitta whiteheadi";"Corsican Nuthatch";No
+14790;"Sitta europaea";"Eurasian Nuthatch";Yes
+14791;"Sitta europaea europaea";"Eurasian Nuthatch";Yes
+14793;"Sitta europaea caesia";"Eurasian Nuthatch";Yes
+14800;"Sitta tephronota";"Eastern Rock Nuthatch";No
+14810;"Sitta neumayer";"Western Rock Nuthatch";No
+14820;"Tichodroma muraria";Wallcreeper;No
+14860;"Certhia familiaris";"Eurasian Treecreeper";Yes
+14861;"Certhia familiaris familiaris";"Eurasian Treecreeper";Yes
+14862;"Certhia familiaris britannica";"Eurasian Treecreeper";Yes
+14870;"Certhia brachydactyla";"Short-toed Treecreeper";Yes
+14900;"Remiz pendulinus";"Eurasian Penduline-tit";No
+14901;"Remiz pendulinus pendulinus";"Eurasian Penduline-tit";No
+14903;"Remiz pendulinus macronyx";"Eurasian Penduline-tit";No
+15080;"Oriolus oriolus";"Eurasian Golden Oriole";Yes
+15140;"Lanius isabellinus isabellinus";"Isabelline Shrike";No
+15150;"Lanius collurio";"Red-backed Shrike";Yes
+15152;"Lanius isabeliunus phoenicuroides";"Red-tailed Shrike";No
+15170;"Lanius schach";"Long-tailed Shrike";No
+15190;"Lanius minor";"Lesser Grey Shrike";Yes
+15200;"Lanius excubitor";"Great Grey Shrike";No
+15203;"Lanius excubitor meridionalis";"Iberian Grey Shrike";No
+15206;"Lanius excubitor pallidirostris";"Great Grey Shrike";No
+15230;"Lanius senator";"Woodchat Shrike";Yes
+15231;"Lanius senator senator";"Woodchat Shrike";Yes
+15232;"Lanius senator badius";"Woodchat Shrike";Yes
+15233;"Lanius senator niloticus";"Woodchat Shrike";Yes
+15240;"Lanius nubicus";"Masked Shrike";No
+15390;"Garrulus glandarius";"Eurasian Jay";Yes
+15430;"Perisoreus infaustus";"Siberian Jay";No
+15470;"Cyanopica cyanus";"Iberian Azure-winged Magpie";Yes
+15490;"Pica pica";"Eurasian Magpie";Yes
+15570;"Nucifraga caryocatactes";"Northern Nutcracker";Yes
+15571;"Nucifraga caryocatactes caryocatactes";"Northern Nutcracker";Yes
+15572;"Nucifraga caryocatactes macrorhynchos";"Northern Nutcracker";Yes
+15580;"Pyrrhocorax graculus";"Yellow-billed Chough";No
+15590;"Pyrrhocorax pyrrhocorax";"Red-billed Chough";Yes
+15600;"Corvus monedula";"Eurasian Jackdaw";Yes
+15601;"Corvus monedula monedula";"Eurasian Jackdaw";Yes
+15602;"Corvus monedula soemmeringii";"Eurasian Jackdaw";Yes
+15603;"Corvus monedula spermologus";"Eurasian Jackdaw";Yes
+15620;"Corvus splendens";"House Crow";No
+15630;"Corvus frugilegus";Rook;Yes
+15670;"Corvus corone";"Carrion Crow";Yes
+15671;"Corvus corone corone";"Carrion Crow";Yes
+15673;"Corvus corone cornix";"Carrion Crow";Yes
+15700;"Corvus albus";"Pied Crow";No
+15710;"Corvus ruficollis";"Brown-necked Raven";No
+15720;"Corvus corax";"Common Raven";Yes
+15820;"Sturnus vulgaris";"Common Starling";Yes
+15830;"Sturnus unicolor";"Spotless Starling";Yes
+15840;"Pastor roseus";"Rosy Starling";No
+15870;"Acridotheres tristis";"Common Myna";No
+15880;"Acridotheres ginginianus";"Bank Myna";No
+15890;"Acridotheres cristatellus";"Crested Myna";No
+15910;"Passer domesticus";"House Sparrow";Yes
+15911;"Passer domesticus domesticus";"House Sparrow";Yes
+15912;"Passer italiae";"Italian Sparrow";No
+15913;"Passer domesticus indicus";"House Sparrow";Yes
+15920;"Passer hispaniolensis";"Spanish Sparrow";No
+15950;"Passer moabiticus";"Dead Sea Sparrow";No
+15980;"Passer montanus";"Eurasian Tree Sparrow";Yes
+16010;"Carpospiza brachydactyla";"Pale Sparrow";No
+16020;"Gymnoris xanthocollis";"Chestnut-shouldered Bush-sparrow";No
+16040;"Petronia petronia";"Rock Sparrow";Yes
+16110;"Montifringilla nivalis";"White-winged Snowfinch";No
+16150;"Estrilda astrild";"Common Waxbill";No
+16180;"Euodice malabarica";"Indian Silverbill";No
+16360;"Fringilla coelebs";"Common Chaffinch";Yes
+16361;"Fringilla coelebs coelebs";"Common Chaffinch";Yes
+16363;"Fringilla coelebs ombriosa";"Common Chaffinch";Yes
+16364;"Fringilla coelebs palmae";"Common Chaffinch";Yes
+16370;"Fringilla teydea";"Tenerife Blue Chaffinch";No
+16371;"Fringilla teydea teydea";"Tenerife Blue Chaffinch";No
+16372;"Fringilla teydea polatzeki";"Gran Canaria Blue Chaffinch";No
+16380;"Fringilla montifringilla";Brambling;Yes
+16390;"Serinus pusillus";"Red-fronted Serin";No
+16400;"Serinus serinus";"European Serin";Yes
+16420;"Serinus canaria";"Island Canary";No
+16440;"Carduelis citrinella";"Citril Finch";Yes
+16442;"Carduelis corsicana";"Corsican Finch";No
+16490;"Chloris chloris";"European Greenfinch";Yes
+16530;"Carduelis carduelis";"European Goldfinch";Yes
+16540;"Spinus spinus";"Eurasian Siskin";Yes
+16600;"Linaria cannabina";"Common Linnet";Yes
+16620;"Linaria flavirostris";Twite;No
+16630;"Carduelis flammea";Redpoll;Yes
+16631;"Carduelis flammea flammea";Redpoll;Yes
+16632;"Carduelis flammea rostrata";Redpoll;Yes
+16634;"Carduelis flammea cabaret";Redpoll;Yes
+16640;"Carduelis hornemanni";Redpoll;Yes
+16650;"Loxia leucoptera";"Two-barred Crossbill";No
+16660;"Loxia curvirostra";"Red Crossbill";No
+16670;"Loxia scotica";"Scottish Crossbill";No
+16680;"Loxia pytyopsittacus";"Parrot Crossbill";No
+16730;"Rhodopechys sanguineus";"Eurasian Crimson-winged Finch";No
+16740;"Rhodospiza obsoleta";"Desert Finch";No
+16750;"Bucanetes mongolicus";"Mongolian Finch";No
+16760;"Bucanetes githagineus";"Trumpeter Finch";No
+16790;"Carpodacus erythrinus";"Common Rosefinch";Yes
+16960;"Carpodacus rubicilla";"Great Rosefinch";No
+16990;"Pinicola enucleator";"Pine Grosbeak";No
+17040;"Carpodacus sibiricus";"Long-tailed Rosefinch";No
+17100;"Pyrrhula pyrrhula";"Eurasian Bullfinch";Yes
+17105;"Pyrrhula murina";"Azores Bullfinch";No
+17170;"Coccothraustes coccothraustes";Hawfinch;Yes
+18470;"Calcarius lapponicus";"Lapland Longspur";Yes
+18500;"Plectrophenax nivalis";"Snow Bunting";No
+18560;"Emberiza leucocephalos";"Pine Bunting";No
+18570;"Emberiza citrinella";Yellowhammer;Yes
+18580;"Emberiza cirlus";"Cirl Bunting";Yes
+18600;"Emberiza cia";"Rock Bunting";Yes
+18650;"Emberiza cineracea";"Cinereous Bunting";No
+18660;"Emberiza hortulana";"Ortolan Bunting";Yes
+18670;"Emberiza buchanani";"Grey-necked Bunting";No
+18680;"Emberiza caesia";"Cretzschmar's Bunting";No
+18730;"Emberiza rustica";"Rustic Bunting";Yes
+18740;"Emberiza pusilla";"Little Bunting";No
+18760;"Emberiza aureola";"Yellow-breasted Bunting";No
+18770;"Emberiza schoeniclus";"Reed Bunting";Yes
+18780;"Emberiza pallasi";"Pallas's Bunting";No
+18800;"Emberiza bruniceps";"Red-headed Bunting";No
+18810;"Emberiza melanocephala";"Black-headed Bunting";Yes
+18820;"Emberiza calandra";"Corn Bunting";Yes
+18880;"Cardinalis cardinalis";"Northern Cardinal";No
+20030;"Ploceus cucullatus";"Village Weaver";No
+20230;"Phoenicopterus chilensis";"Chilean Flamingo";No
+20240;"Quelea quelea";"Red-billed Quelea";No
+20250;"Amandava amandava";"Red Avadavat";No
+20260;"Lonchura punctulata";"Scaly-breasted Munia";No
+20270;"Estrilda troglodytes";"Black-rumped Waxbill";No
+20290;"Lonchura malacca";"Tricoloured Munia";No
+20380;"Chloephaga picta";"Upland Goose";No
+20390;"Myiopsitta monachus";"Monk Parakeet";No
+20410;"Ploceus melanocephalus";"Black-headed Weaver";No
+20420;"Euplectes afer";"Yellow-crowned Bishop";No
+20430;"Estrilda melpoda";"Orange-cheeked Waxbill";No
+20440;"Taeniopygia guttata";"Australian Zebra Finch";No
+20800;"Cygnus atratus";"Black Swan";No
+20900;"Acrocephalus baeticatus";"Common Reed-warbler";Yes
+25700;"Callonetta leucophrys";"Ringed Teal";No
+26200;"Cyanoliseus patagonus";"Burrowing Parrot";No
+26430;"Vidua macroura";"Pin-tailed Whydah";No
+26610;"Psittacula eupatria";"Alexandrine Parakeet";No
+26660;"Tadorna cana";"South African Shelduck";No
+26690;"Amazona oratrix";"Yellow-headed Amazon";No
+28010;"Pternistis erckelii";"Erckel's Francolin";No
+30010;"Accipiter castanilius";"Chestnut-flanked Sparrowhawk";No
+30030;"Accipiter melanoleucus";"Black Sparrowhawk";No
+30080;"Amaurornis marginalis";"Striped Crake";No
+30090;"Agapornis pullarius";"Red-headed Lovebird";No
+30130;"Corythornis leucogaster";"White-bellied Kingfisher";No
+30280;"Anhinga rufa";"African Darter";No
+30530;"Aquila nipalensis";"Steppe Eagle";No
+32040;"Euplectes hordeaceus";"Black-winged Bishop";No
+32910;"Lanius meridionalis";"Iberian Grey Shrike";No
+34130;"Platalea alba";"African Spoonbill";No
+34420;"Poicephalus senegalus";"Senegal Parrot";No
+35460;"Vidua chalybeata";"Village Indigobird";No
+35660;"Rhea americana";"Greater Rhea";No
+35670;"Pavo cristatus";"Indian Peafowl";No
+35680;"Psittacara acuticaudatus";"Blue-crowned Parakeet";No
+35690;"Psittacara mitratus";"Mitred Parakeet";No
+35700;"Psittacara erythrogenys";"Red-masked Parakeet";No
+35710;"Agapornis fischeri";"Fischer's Lovebird";No
+35820;"Vanellus indicus";"Red-wattled Lapwing";No
+35850;"Pionus maximiliani";"Scaly-headed Parrot";No
+35970;"Calonectris borealis";"Cory's Shearwater";No
+35980;"Larus armenicus";"Armenian Gull";No
+35990;"Pterodroma deserta";"Desertas Petrel";No
+36020;"Agapornis personatus";"Yellow-collared Lovebird";No
+36030;"Amazona aestiva";"Turquoise-fronted Amazon";No
+36040;"Aratinga nenday";"Nanday Parakeet";No
+36050;"Pycnonotus leucotis";"White-eared Bulbul";No
+36060;"Pycnonotus cafer";"Red-vented Bulbul";No
+36070;"Poecile hyrcanus";"Caspian Tit";No
